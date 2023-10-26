@@ -9,8 +9,7 @@
 - 💼 &nbsp; Working on new challenges.
 
 
-<h3> 💻 &nbsp;Tech Stack</h3>
-
+- 💻 &nbsp;
 - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 - ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dot-net)
