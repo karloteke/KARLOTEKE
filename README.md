@@ -2,6 +2,7 @@
 
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3> 👩🏻 &nbsp;About Me </h3>
 
