@@ -11,6 +11,9 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dot-net)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
 
 - 🌐 &nbsp;
