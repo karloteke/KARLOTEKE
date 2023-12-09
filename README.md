@@ -1,9 +1,6 @@
                                                 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐂𝐚𝐫𝐥𝐨𝐭𝐚 👋 
 
 
-
-<img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif"/>
-
 <h3> 👩🏻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Web development.
