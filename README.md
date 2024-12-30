@@ -1,40 +1,174 @@
-                                                𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐂𝐚𝐫𝐥𝐨𝐭𝐚 👋 
+<h1 align="center">Hello, I am Carlota 👋</h1>
+
+---
+
+## 👩🏻 About Me
+
+- 🎓 **Web Developer**, passionate about creating dynamic and interactive web applications.
+- 💼 Currently working on exciting projects and exploring new challenges.
+- 🌱 Always learning and growing in the world of development.
+
+---
+
+## 💻 Tech Stack
+
+### Languages and Frameworks
+
+<p>
+  <!-- Java -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+         alt="Java" width="36" height="36"/>
+  </span>
+
+  <!-- C# -->
+  <span style="display:inline-block; padding: 5px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+         alt="C#" width="36" height="36"/>
+  </span>
+
+  <!-- .NET (dotnetcore) -->
+  <span style="display:inline-block; padding: 5px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+         alt=".NET" width="36" height="36"/>
+  </span>
+
+  <!-- Vue.js -->
+  <span style="display:inline-block; margin-right:30px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         alt="Vue.js" width="36" height="36"/>
+  </span>
+
+  <!-- React -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+         alt="React" width="36" height="36"/>
+  </span>
+
+  <!-- Next.js (blanco/negro) -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+         alt="Next.js"width="36" height="36"/>
+  </span>
+</p>
+
+### Frontend Technologies
+
+<p>
+  <!-- HTML5 -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+         alt="HTML5" width="36" height="36"/>
+  </span>
+
+  <!-- CSS3 -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+         alt="CSS3" width="36" height="36"/>
+  </span>
+
+  <!-- JavaScript (repetido si lo deseas) -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+         alt="JavaScript" width="36" height="36"/>
+  </span>
+
+  <!-- TypeScript -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+         alt="TypeScript" width="36" height="36"/>
+  </span>
+
+  <!-- Bootstrap -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+         alt="Bootstrap" width="36" height="36"/>
+  </span>
+
+  <!-- Vuetify (placeholder; ajusta URL si tienes ícono oficial) -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://github.com/user-attachments/assets/b2f7ac56-0a44-49f2-a568-30e64193d654"
+         alt="Vuetify" width="36" height="36"/>
+  </span>
+</p>
+
+### Backend and Databases
+
+<p>
+  <!-- MySQL -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+         alt="MySQL" width="36" height="36"/>
+  </span>
+
+  <!-- AWS con fondo blanco y borde para destacar -->
+  <span style="display:inline-block; margin-right:20px; background-color:#fff; border:1px solid #ccc; border-radius:5px; padding:2px;">
+    <img src="https://github.com/swoodford/aws/raw/master/images/aws.png"
+         alt="AWS" width="36" height="36"/>
+  </span>
+</p>
+
+### Dev Tools
+
+<p>
+  <!-- Git -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+         alt="Git" width="36" height="36"/>
+  </span>
+
+  <!-- GitHub -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         alt="GitHub" width="36" height="36"/>
+  </span>
+
+  <!-- GitLab -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+         alt="GitLab" width="36" height="36"/>
+  </span>
+
+  <!-- Docker -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+         alt="Docker" width="36" height="36"/>
+  </span>
+
+  <!-- Kubernetes -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+         alt="Kubernetes" width="36" height="36"/>
+  </span>
+</p>
+
+### Design Tools
+
+<p>
+  <!-- Illustrator -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
+         alt="Adobe Illustrator" width="36" height="36"/>
+  </span>
+
+  <!-- Photoshop con fondo blanco y borde para destacar -->
+  <span style="display:inline-block; margin-right:20px; background-color:white; border:1px solid #ccc; border-radius:5px; padding:2px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+         alt="Adobe Photoshop" width="36" height="36"/>
+  </span>
+</p>
+
+## 📬 Contacto
+
+<p>
+
+- **Sitio Web:** [www.carlotacetina.com](https://www.carlotacetina.com)
+- **Email:** [carlotacetina37@gmail.com](mailto:carlotacetina37@gmail.com)
+- **LinkedIn:** [Carlota Cetina Martínez](https://www.linkedin.com/in/carlota-cetina-mart%C3%ADnez-938383b3/)
+
+</p>
 
 
-<h3> 👩🏻 &nbsp;About Me </h3>
-
-- 🎓 &nbsp; Studying Web development.
-- 💼 &nbsp; Working on new challenges.
-
-<h3> 💻 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
-  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dot-net)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
-  
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 
 
