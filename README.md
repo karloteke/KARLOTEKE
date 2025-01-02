@@ -1,4 +1,6 @@
-<h1 align="center">Hello, I am Carlota 👋</h1>
+
+
+<h1 align="center">Hi 👋, I'm Carlota</h1>
 
 ---
 
@@ -85,7 +87,7 @@
          alt="Bootstrap" width="36" height="36"/>
   </span>
 
-  <!-- Vuetify (placeholder; ajusta URL si tienes ícono oficial) -->
+  <!-- Vuetify -->
   <span style="display:inline-block; margin-right:20px;">
     <img src="https://github.com/user-attachments/assets/b2f7ac56-0a44-49f2-a568-30e64193d654"
          alt="Vuetify" width="36" height="36"/>
@@ -101,12 +103,15 @@
          alt="MySQL" width="36" height="36"/>
   </span>
 
-  <!-- AWS con fondo blanco y borde para destacar -->
-  <span style="display:inline-block; margin-right:20px; background-color:#fff; border:1px solid #ccc; border-radius:5px; padding:2px;">
-    <img src="https://github.com/swoodford/aws/raw/master/images/aws.png"
-         alt="AWS" width="36" height="36"/>
-  </span>
+<span style="display:inline-block; margin-right:20px; background-color:#f0f0f0; border:1px solid #ccc; border-radius:5px; padding:5px;">
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+       alt="AWS Logo" width="60" />
+</span>
+
 </p>
+
+
+
 
 ### Dev Tools
 
@@ -148,17 +153,20 @@
   <!-- Illustrator -->
   <span style="display:inline-block; margin-right:20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-         alt="Adobe Illustrator" width="36" height="36"/>
+         alt="Adobe Illustrator" width="33" height="33"/>
   </span>
 
-  <!-- Photoshop con fondo blanco y borde para destacar -->
-  <span style="display:inline-block; margin-right:20px; background-color:white; border:1px solid #ccc; border-radius:5px; padding:2px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-         alt="Adobe Photoshop" width="36" height="36"/>
-  </span>
+
+<!-- Photoshop alternativa desde Wikimedia Commons -->
+<span style="display:inline-block; margin-right:20px; background-color:white; border:1px solid #ccc; border-radius:5px; padding:5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
+       alt="Adobe Photoshop" width="36" height="36"/>
+</span>
+
+
 </p>
 
-## 📬 Contacto
+## 📬 Contact
 
 <p>
 
