@@ -171,7 +171,7 @@
 
 <p>
 
-- **Sitio Web:** [www.carlotacetina.com](https://www.carlotacetina.com)
+- **Web:** [www.carlotacetina.com](https://www.carlotacetina.com)
 - **Email:** [carlotacetina37@gmail.com](mailto:carlotacetina37@gmail.com)
 - **LinkedIn:** [Carlota Cetina Martínez](https://www.linkedin.com/in/carlota-cetina-mart%C3%ADnez-938383b3/)
 
