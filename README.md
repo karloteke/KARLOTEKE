@@ -103,10 +103,11 @@
          alt="MySQL" width="36" height="36"/>
   </span>
 
-<span style="display:inline-block; margin-right:20px; background-color:#f0f0f0; border:1px solid #ccc; border-radius:5px; padding:5px;">
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-       alt="AWS Logo" width="60" />
-</span>
+  <!-- AWS -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://github.com/user-attachments/assets/daf95be1-d70d-4250-a000-5142887a6511"
+         alt="AWS" width="36" height="36"/>
+  </span>
 
 </p>
 
