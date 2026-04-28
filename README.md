@@ -9,44 +9,30 @@
 ---
 
 ## 👩🏻 About Me
-Frontend-focused web developer building clean, accessible UIs with attention to UX and performance.
-I also work with SEO-friendly structures and modern workflows (Git + Docker).
+Junior web developer specializing in front-end development, with a focus on creating clean, accessible, and optimized interfaces to deliver a great user experience and strong performance. I also work with SEO-friendly structures and modern tools such as Git and Docker.
 
 ## 💻 Tech Stack
 
 ### Frontend
-<p>
-  <img alt="HTML5" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="Vue.js" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img alt="React" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Next.js" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alt="Astro" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
-  <img alt="Bootstrap" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,bootstrap,wordpress" />
 </p>
 
-### Backend / DB 
-<p>
-  <img alt="C#" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img alt=".NET" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img alt="MySQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+### Backend / DB
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" />
 </p>
 
 ### Tools
-<p>
-  <img alt="Git" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img alt="GitLab" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-  <img alt="Docker" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker" />
 </p>
 
 ## 📬 Contact
 
 <p>
 
-- **Web:** [www.carlotacetina.com](https://www.carlotacetina.com)
+- **Portfolio:** [www.carlotacetina.com](https://www.carlotacetina.com)
 - **Email:** [contacto@carlotacetina.com](mailto:contacto@carlotacetina.com)
 - **LinkedIn:** [Carlota Cetina Martínez](https://www.linkedin.com/in/carlota-cetina-mart%C3%ADnez-938383b3/)
 
